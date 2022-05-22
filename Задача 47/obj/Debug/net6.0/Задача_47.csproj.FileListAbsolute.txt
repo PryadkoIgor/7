@@ -1,0 +1,45 @@
+C:\Users\user\Desktop\GB\ДЗ_Семинары_С#\Задача_47\obj\Debug\net6.0\Задача_47.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GB\ДЗ_Семинары_С#\Задача_47\obj\Debug\net6.0\Задача_47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GB\ДЗ_Семинары_С#\Задача_47\obj\Debug\net6.0\Задача_47.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GB\ДЗ_Семинары_С#\Задача_47\obj\Debug\net6.0\Задача_47.AssemblyInfo.cs
+C:\Users\user\Desktop\GB\ДЗ_Семинары_С#\Задача_47\obj\Debug\net6.0\Задача_47.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GB\ДЗ_Семинары_С#\Задача_47\bin\Debug\net6.0\Задача_47.exe
+C:\Users\user\Desktop\GB\ДЗ_Семинары_С#\Задача_47\bin\Debug\net6.0\Задача_47.deps.json
+C:\Users\user\Desktop\GB\ДЗ_Семинары_С#\Задача_47\bin\Debug\net6.0\Задача_47.runtimeconfig.json
+C:\Users\user\Desktop\GB\ДЗ_Семинары_С#\Задача_47\bin\Debug\net6.0\Задача_47.dll
+C:\Users\user\Desktop\GB\ДЗ_Семинары_С#\Задача_47\bin\Debug\net6.0\Задача_47.pdb
+C:\Users\user\Desktop\GB\ДЗ_Семинары_С#\Задача_47\obj\Debug\net6.0\Задача_47.dll
+C:\Users\user\Desktop\GB\ДЗ_Семинары_С#\Задача_47\obj\Debug\net6.0\refint\Задача_47.dll
+C:\Users\user\Desktop\GB\ДЗ_Семинары_С#\Задача_47\obj\Debug\net6.0\Задача_47.pdb
+C:\Users\user\Desktop\GB\ДЗ_Семинары_С#\Задача_47\obj\Debug\net6.0\Задача_47.genruntimeconfig.cache
+C:\Users\user\Desktop\GB\ДЗ_Семинары_С#\Задача_47\obj\Debug\net6.0\ref\Задача_47.dll
+D:\ДЗ\ДЗ_7\Задача 47\bin\Debug\net6.0\Задача_47.exe
+D:\ДЗ\ДЗ_7\Задача 47\bin\Debug\net6.0\Задача_47.deps.json
+D:\ДЗ\ДЗ_7\Задача 47\bin\Debug\net6.0\Задача_47.runtimeconfig.json
+D:\ДЗ\ДЗ_7\Задача 47\bin\Debug\net6.0\Задача_47.dll
+D:\ДЗ\ДЗ_7\Задача 47\bin\Debug\net6.0\Задача_47.pdb
+D:\ДЗ\ДЗ_7\Задача 47\obj\Debug\net6.0\Задача_47.csproj.AssemblyReference.cache
+D:\ДЗ\ДЗ_7\Задача 47\obj\Debug\net6.0\Задача_47.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЗ\ДЗ_7\Задача 47\obj\Debug\net6.0\Задача_47.AssemblyInfoInputs.cache
+D:\ДЗ\ДЗ_7\Задача 47\obj\Debug\net6.0\Задача_47.AssemblyInfo.cs
+D:\ДЗ\ДЗ_7\Задача 47\obj\Debug\net6.0\Задача_47.csproj.CoreCompileInputs.cache
+D:\ДЗ\ДЗ_7\Задача 47\obj\Debug\net6.0\Задача_47.dll
+D:\ДЗ\ДЗ_7\Задача 47\obj\Debug\net6.0\refint\Задача_47.dll
+D:\ДЗ\ДЗ_7\Задача 47\obj\Debug\net6.0\Задача_47.pdb
+D:\ДЗ\ДЗ_7\Задача 47\obj\Debug\net6.0\Задача_47.genruntimeconfig.cache
+D:\ДЗ\ДЗ_7\Задача 47\obj\Debug\net6.0\ref\Задача_47.dll
+C:\Users\GarrYPotteR\Desktop\ДЗ_7\Задача 47\bin\Debug\net6.0\Задача_47.exe
+C:\Users\GarrYPotteR\Desktop\ДЗ_7\Задача 47\bin\Debug\net6.0\Задача_47.deps.json
+C:\Users\GarrYPotteR\Desktop\ДЗ_7\Задача 47\bin\Debug\net6.0\Задача_47.runtimeconfig.json
+C:\Users\GarrYPotteR\Desktop\ДЗ_7\Задача 47\bin\Debug\net6.0\Задача_47.dll
+C:\Users\GarrYPotteR\Desktop\ДЗ_7\Задача 47\bin\Debug\net6.0\Задача_47.pdb
+C:\Users\GarrYPotteR\Desktop\ДЗ_7\Задача 47\obj\Debug\net6.0\Задача_47.csproj.AssemblyReference.cache
+C:\Users\GarrYPotteR\Desktop\ДЗ_7\Задача 47\obj\Debug\net6.0\Задача_47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GarrYPotteR\Desktop\ДЗ_7\Задача 47\obj\Debug\net6.0\Задача_47.AssemblyInfoInputs.cache
+C:\Users\GarrYPotteR\Desktop\ДЗ_7\Задача 47\obj\Debug\net6.0\Задача_47.AssemblyInfo.cs
+C:\Users\GarrYPotteR\Desktop\ДЗ_7\Задача 47\obj\Debug\net6.0\Задача_47.csproj.CoreCompileInputs.cache
+C:\Users\GarrYPotteR\Desktop\ДЗ_7\Задача 47\obj\Debug\net6.0\Задача_47.dll
+C:\Users\GarrYPotteR\Desktop\ДЗ_7\Задача 47\obj\Debug\net6.0\refint\Задача_47.dll
+C:\Users\GarrYPotteR\Desktop\ДЗ_7\Задача 47\obj\Debug\net6.0\Задача_47.pdb
+C:\Users\GarrYPotteR\Desktop\ДЗ_7\Задача 47\obj\Debug\net6.0\Задача_47.genruntimeconfig.cache
+C:\Users\GarrYPotteR\Desktop\ДЗ_7\Задача 47\obj\Debug\net6.0\ref\Задача_47.dll
